@@ -62,7 +62,6 @@ Follow the prompts to:
 * Python Official Documentation
 
 
-**Contributors**:
+Contributors:
 Aastha Srivastava
-**Supervisor**: Dr. Gunjan Mittal Roy
-**Institution**: IILM University, Greater Noida
+Institution: IILM University, Greater Noida
